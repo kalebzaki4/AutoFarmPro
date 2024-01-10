@@ -2,7 +2,7 @@
 
 ## AVISO!!! ⚠️
 
-O AutoFarmPro é um projeto de código aberto, o que significa que você tem total liberdade para replicá-lo e personalizar conforme sua preferência. Este projeto foi desenvolvido em Python com modificações feitas para facilitar a farm de pontos em lojinhas de streamers na Twitch. Inicialmente, o núcleo foi desenvolvido pelo talentoso criador @nomeDoCriador.
+O AutoFarmPro é um projeto de código aberto, o que significa que você tem total liberdade para replicá-lo e personalizar conforme sua preferência. Este projeto foi desenvolvido em Python com modificações feitas para facilitar a farm de pontos em lojinhas de streamers na Twitch.
 
 Para fomentar a colaboração e incentivar o envolvimento da comunidade, tornamos este projeto acessível para ajustes, contribuições e modificações. Se você estiver interessado em participar deste projeto, entre em contato e expresse seu interesse em auxiliar de alguma forma.
 
